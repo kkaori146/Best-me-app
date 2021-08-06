@@ -1,0 +1,1 @@
+Questions App that allows the user's reflect according to the answers provided to the application.
